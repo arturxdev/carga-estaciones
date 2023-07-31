@@ -1,0 +1,11 @@
+{
+  "name": "carga-estaciones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arturxdev/carga-estaciones.git",
+  "author": "Arturo GUerrero <arturo.guerrero@koibanx.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.3.1"
+  }
+}
